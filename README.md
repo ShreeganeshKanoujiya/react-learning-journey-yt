@@ -26,7 +26,7 @@ I am following this playlist to learn and implement React concepts step by step:
 ## 📂 Folder Structure
 
 ```
-react-learning/
+react-learning-journey-yt/
 │── 01viteReact/
 │── 02counter/
 │── 03tailwindprops/
