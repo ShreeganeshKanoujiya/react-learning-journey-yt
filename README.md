@@ -32,6 +32,7 @@ react-learning-journey-yt/
 │── 03tailwindprops/
 │── 04bgChanger/
 │── 05passwordGenerator/
+│── 06currencyConvertor/
 │── CustomReact/
 └── README.md
 ```
