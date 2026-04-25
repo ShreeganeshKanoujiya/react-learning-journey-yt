@@ -33,6 +33,7 @@ react-learning-journey-yt/
 │── 04bgChanger/
 │── 05passwordGenerator/
 │── 06currencyConvertor/
+│── 07reactRouter/
 │── CustomReact/
 └── README.md
 ```
