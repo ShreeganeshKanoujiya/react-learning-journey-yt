@@ -34,6 +34,7 @@ react-learning-journey-yt/
 │── 05passwordGenerator/
 │── 06currencyConvertor/
 │── 07reactRouter/
+│── 08miniContext/
 │── CustomReact/
 └── README.md
 ```
@@ -64,7 +65,7 @@ react-learning-journey-yt/
 * [x] Components & JSX
 * [x] State & Props
 * [x] Hooks
-* [ ] Routing
+* [x] Routing
 * [x] Projects
 
 *(Updating as I progress...)*
