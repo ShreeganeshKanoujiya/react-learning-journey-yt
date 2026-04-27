@@ -36,6 +36,7 @@ react-learning-journey-yt/
 │── 07reactRouter/
 │── 08miniContext/
 │── 09themeSwitcher/
+│── 10todoContextLocal/
 │── CustomReact/
 └── README.md
 ```
@@ -69,6 +70,7 @@ react-learning-journey-yt/
 * [x] Routing
 * [x] Context API
 * [x] Projects
+* [x] Local Storage
 
 *(Updating as I progress...)*
 
