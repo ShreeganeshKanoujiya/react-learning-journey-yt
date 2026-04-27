@@ -35,6 +35,7 @@ react-learning-journey-yt/
 │── 06currencyConvertor/
 │── 07reactRouter/
 │── 08miniContext/
+│── 09themeSwitcher/
 │── CustomReact/
 └── README.md
 ```
@@ -66,6 +67,7 @@ react-learning-journey-yt/
 * [x] State & Props
 * [x] Hooks
 * [x] Routing
+* [x] Context API
 * [x] Projects
 
 *(Updating as I progress...)*
