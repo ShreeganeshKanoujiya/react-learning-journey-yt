@@ -38,6 +38,7 @@ react-learning-journey-yt/
 │── 09themeSwitcher/
 │── 10todoContextLocal/
 │── CustomReact/
+│── reduxtoolkitTodo/
 └── README.md
 ```
 
@@ -71,6 +72,7 @@ react-learning-journey-yt/
 * [x] Context API
 * [x] Projects
 * [x] Local Storage
+* [x] Redux-toolkit
 
 *(Updating as I progress...)*
 
